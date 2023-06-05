@@ -1,4 +1,4 @@
-/* Cambio de tamaño de las imágenes del carrusel de acuerdo a screen size (comportamiento responsive) */
+/* Cambio de tamaño de las imágenes, fuentes, etc. de acuerdo a screen size (comportamiento responsive) */
 
 @media only screen and (max-width: $screen-sm-max) {
   .curso1 {
@@ -37,6 +37,19 @@
     margin-right: 10% !important;
   }
 }
+
+@media only screen and (min-width: $screen-sm-high) and (max-width: $screen-md-min-sup) {
+  .imagen_nosotros {
+    display: none !important;
+  }
+}
+
+@media only screen and (width: $screen-md-min-sup) {
+  .imagen_nosotros {
+    display: inline-block !important;
+  }
+}
+
 
 @media only screen and (min-width: $screen-md-min-sup) and (max-width: $screen-lg-min) {
   .curso1 {
