@@ -1,0 +1,50 @@
+/* Estilos propios de navbar */
+
+.navbar {
+	font-family: $font-navbar;
+}
+
+.navbar-brand {
+	font-size: 3rem;
+
+	&:hover {
+		color: $color-blue !important;
+	}
+}
+
+.bg-mati {
+	width: 100%;
+}
+
+.nav-link {
+	&:hover {
+		color: $color-blue !important;
+	}
+}
+
+.nav-item {
+	font-size: 1.25rem;
+
+	a {
+		color: $color-white;
+	}
+}
+
+.nav-background {
+	background-color: transparent !important;
+}
+
+.container {
+	.text-center {
+		margin-top: 5%;
+	}
+}
+
+.fw-bold {
+	color: $color-white;
+}
+
+.navbar-toggler {
+	color: $color-white;
+	background-color: $color-white;
+}

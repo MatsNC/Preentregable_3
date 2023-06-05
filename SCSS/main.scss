@@ -1,0 +1,17 @@
+@import './base/normalize';
+@import './base/fonts';
+@import './base/variables';
+@import './base/colors';
+@import './components/animations';
+@import './components/mixins';
+@import './components/img';
+@import './sections/header';
+@import './sections/navbar';
+@import './sections/forms';
+@import './sections/footer';
+@import './views/index';
+@import './views/cursos';
+@import './views/contacto';
+@import './views/nosotros';
+@import './views/asociarse';
+@import './base/mediaqueries';

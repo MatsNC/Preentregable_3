@@ -1,0 +1,85 @@
+/* Cambio de tamaño de las imágenes del carrusel de acuerdo a screen size (comportamiento responsive) */
+
+@media only screen and (max-width: $screen-sm-max) {
+  .curso1 {
+    width: 75% !important;
+  }
+
+  .curso2 {
+    width: 70% !important;
+  }
+
+  .curso3 {
+    width: 70% !important;
+  }
+
+  .imagen_nosotros {
+    display: none;
+  }
+
+  .nosotros-p {
+    font-size: 2vh;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+  }
+
+}
+
+@media only screen and (min-width: $screen-sm-max) and (max-width: $screen-md-min-inf) {
+
+  .imagen_nosotros {
+    display: none;
+  }
+
+  .nosotros-p {
+    font-size: 2.2vh;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+  }
+}
+
+@media only screen and (min-width: $screen-md-min-sup) and (max-width: $screen-lg-min) {
+  .curso1 {
+    width: 61% !important;
+  }
+
+  .curso2 {
+    width: 57% !important;
+  }
+
+  .curso3 {
+    width: 57% !important;
+  }
+
+  .img-nos-div {
+    width: 50% !important;
+  }
+
+  .nosotros-p {
+    font-size: 2vh;
+    margin-left: 40%;
+  }
+}
+
+@media only screen and (min-width: $screen-lg-min) {
+  .curso1 {
+    width: 37% !important;
+  }
+
+  .curso2 {
+    width: 34% !important;
+  }
+
+  .curso3 {
+    width: 34% !important;
+  }
+
+  .img-nos-div {
+    width: 40% !important;
+  }
+
+  .nosotros-p {
+    font-size: 2.4vh;
+    margin-left: 40% !important;
+  }
+}

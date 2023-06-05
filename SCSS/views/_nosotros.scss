@@ -1,0 +1,70 @@
+/* Estilos particulares para div de título principal de pestaña nosotros */
+
+.div-main-title {
+  display: flex;
+  flex-direction: column;
+  background: $color-gray;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #373b44, #4286f4);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #373b44, #4286f4);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Estilos particulares del título principal */
+
+.nosotros-title {
+  @include font-style-set($font-sans, $color-antiquewhite, italic, 2vh, bold);
+}
+
+.nos-p-div {
+  margin-top: 3vh;
+}
+
+.nosotros-sub {
+  @extend .nosotros-title;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.nosotros-p {
+  @extend .nosotros-title;
+  font-weight: normal;
+  font-size: 2.5vh;
+}
+
+.imagen_nosotros {
+  margin-top: 3vh !important;
+}
+
+.staff {
+  margin-top: 10vh !important;
+}
+
+.caption-staff {
+  @include font-style-set($font-sans, $color-antiquewhite, italic, 1vh, normal);
+}
+
+.div-staff-title {
+  margin-top: 3vh;
+  background: #bdc3c7;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c3e50, #bdc3c7);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.staff-title {
+  @extend .caption-staff;
+}
+
+.card {
+  background-color: transparent;
+  border: none;
+}
+
+.figure-img {
+  border: 3px solid white;
+}

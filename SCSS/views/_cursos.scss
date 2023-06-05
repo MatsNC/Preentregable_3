@@ -1,0 +1,71 @@
+/* Estilo propio de título de pestaña cursos */
+.h1-cursos {
+  display: flex;
+  font-family: $font-family_h1;
+  color: $color-dodgerblue;
+  font-style: italic;
+  font-weight: bolder;
+  height: 3rem;
+  justify-content: center;
+  margin-top: 1rem;
+  animation-name: efecto_titulo;
+  animation-timing-function: ease-in;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+}
+
+/* Estilo propio del texto descriptivo de los cursos */
+
+.font-curso {
+  font-family: $font-sans;
+}
+
+/* Estilo propio de los links para más información de los cursos */
+
+.link-curso {
+  color: $color-white;
+  font-weight: bold;
+  background-color: $color-black !important;
+}
+
+/* Estilo propio de fila inferior donde está el link de más información de los cursos */
+
+.row {
+  .bottom {
+    padding-left: 10%;
+  }
+}
+
+/* Para centrar las imagenes en la pestaña cursos */
+
+.col-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilo propio de container de filas y columnas de la pestaña cursos */
+
+.grid {
+  margin-top: 5vh !important;
+}
+
+.col-sm-12 {
+  color: $color-white;
+}
+
+.font-curso {
+  p {
+    font-weight: bold;
+  }
+}
+
+.img-curso {
+  transition: all 400ms ease-out;
+  cursor: default;
+
+  &:hover {
+    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.4);
+    transform: translateY(-3%);
+  }
+}
