@@ -108,7 +108,7 @@ label {
   width: 100%;
   height: auto;
   position: absolute;
-  bottom: 0;
+  bottom: -30px;
 }
 
 /* Estilo propio de los links para carousel de la pestaña index */
@@ -344,15 +344,17 @@ label {
     margin-left: 40% !important;
   }
   .font-curso p {
-    font-size: small;
-  }
-  .img-curso {
-    margin-top: 2vh !important;
+    font-size: medium;
   }
 }
-@media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .img-2 {
+    margin-top: 1vh !important;
+  }
+}
+@media only screen and (max-width: 1400px) {
   .font-curso p {
-    font-size: medium;
+    font-size: small;
   }
 }
 

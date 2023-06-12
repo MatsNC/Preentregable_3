@@ -72,6 +72,7 @@
     font-size: 2vh;
     margin-left: 40%;
   }
+
 }
 
 @media only screen and (min-width: $screen-lg-min) {
@@ -98,20 +99,25 @@
 
   .font-curso {
     p {
+      font-size: medium;
+    }
+  }
+
+
+}
+
+@media only screen and (min-width: $screen-lg-min) and (max-width: $screen-lg-max) {
+  .img-2 {
+    margin-top: 1vh !important;
+  }
+}
+
+@media only screen and (max-width: $screen-xl-min) {
+
+  .font-curso {
+    p {
       font-size: small;
     }
   }
 
-  .img-curso {
-    margin-top: 2vh !important;
-  }
-}
-
-@media only screen and (min-width: $screen-xl-min) {
-
-  .font-curso {
-    p {
-      font-size: medium;
-    }
-  }
 }
