@@ -93,7 +93,7 @@ label {
   margin-top: 5vh !important;
 }
 
-.btn-primary {
+.btn-primary, .btn-collapse {
   margin-top: 3vh !important;
 }
 
@@ -149,6 +149,10 @@ label {
   color: white;
   font-weight: bold;
   background-color: black !important;
+}
+.link-curso p {
+  margin-top: 0% !important;
+  margin-bottom: 0% !important;
 }
 
 /* Estilo propio de fila inferior donde está el link de más información de los cursos */
@@ -260,7 +264,7 @@ label {
   margin-top: 5vh !important;
 }
 
-.btn-primary {
+.btn-primary, .btn-collapse {
   margin-top: 3vh !important;
 }
 
