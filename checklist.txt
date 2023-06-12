@@ -26,8 +26,8 @@ A corregir/agregar:
     Ojo con las imagenes que contienen texto y eso porque en la adaptacion se pierde lo que dicen
     La adaptacion mobile/desktop esta completa
 
-- Agregar seo (metas) - INDEX OK
+- Agregar seo (metas) - INDEX, NOSOTROS OK
 - Mod title - INDEX, NOSOTROS OK
-- Agregar encabezados a todas las pestañas - INDEX OK
-- Revisar alt en imagenes - INDEX OK
+- Agregar encabezados a todas las pestañas - INDEX, NOSOTROS OK
+- Revisar alt en imagenes - INDEX, NOSOTROS OK
 - Acomodar tamaño de texto en Nosotros - A CORREGIR/REVISAR
