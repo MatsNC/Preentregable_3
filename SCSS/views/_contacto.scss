@@ -1,0 +1,19 @@
+//Estilos particulares de form:
+form {
+    .btn-customized {
+        margin-top: 2vh !important;
+    }
+}
+
+//Estilo particular de header h1:
+.h1-contacto {
+    display: flex;
+    font-family: $font-family_h1;
+    color: $color-white;
+    font-style: italic;
+    font-weight: bolder;
+    height: 3rem;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

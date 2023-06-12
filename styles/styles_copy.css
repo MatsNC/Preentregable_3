@@ -20,6 +20,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   margin-bottom: 150px;
+  overflow-x: hidden;
 }
 
 /* Animaciones */
@@ -191,6 +192,22 @@ label {
 .img-curso:hover {
   box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.4);
   transform: translateY(-3%);
+}
+
+form .btn-customized {
+  margin-top: 2vh !important;
+}
+
+.h1-contacto, .h1-asociarse {
+  display: flex;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+  font-style: italic;
+  font-weight: bolder;
+  height: 3rem;
+  justify-content: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 /* Estilos particulares para div de título principal de pestaña nosotros */
