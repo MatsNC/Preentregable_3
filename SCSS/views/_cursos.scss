@@ -26,6 +26,7 @@
   color: $color-white;
   font-weight: bold;
   background-color: $color-black !important;
+
   p {
     margin-top: 0% !important;
     margin-bottom: 0% !important;
@@ -33,7 +34,7 @@
 }
 
 .btn-collapse {
-  @extend .btn-primary;  
+  @extend .btn-primary;
 }
 
 /* Estilo propio de fila inferior donde está el link de más información de los cursos */
