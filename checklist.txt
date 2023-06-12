@@ -1,0 +1,33 @@
+A corregir/agregar:
+  - Bootstrap con link desplegable - cambia el tamaño de las imágenes de al lado - CORREGIDO
+  - Verificar tamaño de imagenes. Ajustar.
+  - Subida a hosting
+  -Devolucion de Abril
+    Repositorio
+    Esta bien organizada la carpeta
+    Recorda no nombrar carpetas ni arhcivos con mayusculas - supongo que se refiere a SCSS. Ya le cambié el nombre a minúsculas. Hay que volver a subir a Repo. Renombrar repo con nombre Proyecto Final.
+
+    Código html
+    Para que haya un h5 en un archivo antes tiene que haber un h4. Lo mismo pasa con todos los headings, siempre debe estar el anterior - LISTO. Arreglado en pestaña nosotros.
+
+    Estilo del sitio
+    El footer deberia ir pegado al piso del navegador - LISTO
+    No debe haber scrolleos laterales - PREGUNTAR POR CHAT
+
+    Framework
+    No hay adaptacion sobre el codigo html de las cards. Teniendo en cuenta lo que mencione respecto a los headings, esos h5 deberian ser otra jerarquia de h. - LISTO PARA LOS CARDS
+    Falta adaptacion sobre los estilos de bootstrap - REVISAR PARA VER A QUE CHOTA SE REFIERE
+
+    Sass
+    Las variables y mixins deberian ir al principio de todo el scss - LISTO (VER TEMA DE FONTS Y NORMALIZE, PERO CREO QUE ASI ESTÁ BIEN)
+    El uso de sass es correcto
+
+    Responsive
+    Ojo con las imagenes que contienen texto y eso porque en la adaptacion se pierde lo que dicen
+    La adaptacion mobile/desktop esta completa
+
+- Agregar seo (metas) - INDEX OK
+- Mod title - INDEX, NOSOTROS OK
+- Agregar encabezados a todas las pestañas - INDEX OK
+- Revisar alt en imagenes - INDEX OK
+- Acomodar tamaño de texto en Nosotros - A CORREGIR/REVISAR

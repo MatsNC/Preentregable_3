@@ -12,3 +12,10 @@
     width: 70% !important;
 }
 
+.h1-index {
+    @extend .h1-cursos;
+
+    p {
+        color: $color-white;
+    }
+}
