@@ -24,12 +24,13 @@
   }
 
   .wrapper_error {
-    background: url("../../images/error-mobile.png") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    overflow-x: hidden;
+    background: url("/images/error-mobile.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: rgba($color: #e2fbff, $alpha: 1.0);
+    background-size: contain;
+    overflow-x: hidden;       
   }
 
 }
@@ -45,11 +46,31 @@
     margin-left: 10% !important;
     margin-right: 10% !important;
   }
+
+  .wrapper_error {
+    background: url("../../images/error-mobile.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: rgba($color: #e2fbff, $alpha: 1.0);
+    background-size: contain;
+    overflow-x: hidden;       
+  }
 }
 
 @media only screen and (min-width: $screen-sm-high) and (max-width: $screen-md-min-sup) {
   .imagen_nosotros {
     display: none !important;
+  }
+
+  .wrapper_error {
+    background: url("../../images/error-tablet.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: rgba($color: #e2fbff, $alpha: 1.0);
+    background-size: contain;
+    overflow-x: hidden;       
   }
 }
 
@@ -57,6 +78,17 @@
   .imagen_nosotros {
     display: inline-block !important;
   }
+
+  .wrapper_error {
+    background: url("../../images/error-tablet.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: rgba($color: #e2fbff, $alpha: 1.0);
+    background-size: contain;
+    overflow-x: hidden;       
+  }
+
 }
 
 
@@ -80,6 +112,16 @@
   .nosotros-p {
     font-size: 2vh;
     margin-left: 40%;
+  }
+
+  .wrapper_error {
+    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: rgba($color: #e2fbff, $alpha: 1.0);
+    background-size: contain;
+    overflow-x: hidden;       
   }
 
 }
@@ -112,6 +154,15 @@
     }
   }
 
+  .wrapper_error {
+    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: rgba($color: #e2fbff, $alpha: 1.0);
+    background-size: contain;
+    overflow-x: hidden;       
+  }
 
 }
 
@@ -127,5 +178,14 @@
     p {
       font-size: small;
     }
+  }
+  .wrapper_error {
+    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: rgba($color: #e2fbff, $alpha: 1.0);
+    background-size: contain;
+    overflow-x: hidden;       
   }
 }

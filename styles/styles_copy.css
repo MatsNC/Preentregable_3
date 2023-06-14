@@ -309,11 +309,12 @@ form .btn-customized {
     margin-right: 10% !important;
   }
   .wrapper_error {
-    background: url("../../images/error-mobile.png") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+    background: url("/images/error-mobile.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #e2fbff;
+    background-size: contain;
     overflow-x: hidden;
   }
 }
@@ -326,15 +327,42 @@ form .btn-customized {
     margin-left: 10% !important;
     margin-right: 10% !important;
   }
+  .wrapper_error {
+    background: url("../../images/error-mobile.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #e2fbff;
+    background-size: contain;
+    overflow-x: hidden;
+  }
 }
 @media only screen and (min-width: 766px) and (max-width: 768px) {
   .imagen_nosotros {
     display: none !important;
   }
+  .wrapper_error {
+    background: url("../../images/error-tablet.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #e2fbff;
+    background-size: contain;
+    overflow-x: hidden;
+  }
 }
 @media only screen and (width: 768px) {
   .imagen_nosotros {
     display: inline-block !important;
+  }
+  .wrapper_error {
+    background: url("../../images/error-tablet.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #e2fbff;
+    background-size: contain;
+    overflow-x: hidden;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
@@ -353,6 +381,15 @@ form .btn-customized {
   .nosotros-p {
     font-size: 2vh;
     margin-left: 40%;
+  }
+  .wrapper_error {
+    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #e2fbff;
+    background-size: contain;
+    overflow-x: hidden;
   }
 }
 @media only screen and (min-width: 992px) {
@@ -375,6 +412,15 @@ form .btn-customized {
   .font-curso p {
     font-size: medium;
   }
+  .wrapper_error {
+    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #e2fbff;
+    background-size: contain;
+    overflow-x: hidden;
+  }
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .img-2 {
@@ -384,6 +430,15 @@ form .btn-customized {
 @media only screen and (max-width: 1400px) {
   .font-curso p {
     font-size: small;
+  }
+  .wrapper_error {
+    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-color: #e2fbff;
+    background-size: contain;
+    overflow-x: hidden;
   }
 }
 
