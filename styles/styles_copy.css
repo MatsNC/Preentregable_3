@@ -13,7 +13,7 @@ html {
   min-height: 100%;
 }
 
-body {
+body:not(.wrapper_error) {
   background: url("../images/bckg_3.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -307,6 +307,14 @@ form .btn-customized {
     font-size: 2vh;
     margin-left: 10% !important;
     margin-right: 10% !important;
+  }
+  .wrapper_error {
+    background: url("../../images/error-mobile.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow-x: hidden;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {

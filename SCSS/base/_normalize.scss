@@ -13,7 +13,7 @@ html {
   min-height: 100%;
 }
 
-body {
+body:not(.wrapper_error) {
   background: url("../images/bckg_3.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;

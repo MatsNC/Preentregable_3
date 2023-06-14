@@ -1,10 +1,13 @@
 A corregir/agregar:
   - Bootstrap con link desplegable - cambia el tamaño de las imágenes de al lado - CORREGIDO
-  - Verificar tamaño de imagenes. Ajustar.
-  - Subida a hosting
+  - Verificar tamaño de imagenes. Ajustar. LISTO.
+  - Cambiar readme.md de acuerdo a lo que dijo la profe al final del ultimo video.
+  - Agregar pagina de error 404 y agregar boton para volver atrás. EN CURSO
+  - Subida a hosting. FTP.
+
   -Devolucion de Abril
     Repositorio
-    Esta bien organizada la carpeta
+    Esta bien organizada la carpeta - JOYA.
     Recorda no nombrar carpetas ni arhcivos con mayusculas - supongo que se refiere a SCSS. Ya le cambié el nombre a minúsculas. Hay que volver a subir a Repo. Renombrar repo con nombre Proyecto Final.
 
     Código html
@@ -12,19 +15,19 @@ A corregir/agregar:
 
     Estilo del sitio
     El footer deberia ir pegado al piso del navegador - LISTO
-    No debe haber scrolleos laterales - PREGUNTAR POR CHAT
+    No debe haber scrolleos laterales - CORREGIDO.
 
     Framework
     No hay adaptacion sobre el codigo html de las cards. Teniendo en cuenta lo que mencione respecto a los headings, esos h5 deberian ser otra jerarquia de h. - LISTO PARA LOS CARDS
-    Falta adaptacion sobre los estilos de bootstrap - REVISAR PARA VER A QUE CHOTA SE REFIERE
+    Falta adaptacion sobre los estilos de bootstrap - YA LO CAMBIÉ, DE ACUERDO A LO QUE CONSIDERO YO.
 
     Sass
     Las variables y mixins deberian ir al principio de todo el scss - LISTO (VER TEMA DE FONTS Y NORMALIZE, PERO CREO QUE ASI ESTÁ BIEN)
-    El uso de sass es correcto
+    El uso de sass es correcto - JOYA
 
     Responsive
-    Ojo con las imagenes que contienen texto y eso porque en la adaptacion se pierde lo que dicen
-    La adaptacion mobile/desktop esta completa
+    Ojo con las imagenes que contienen texto y eso porque en la adaptacion se pierde lo que dicen - NO SE CORRIGE
+    La adaptacion mobile/desktop esta completa - JOYA
 
 - Agregar seo (metas) - INDEX, NOSOTROS, CURSOS, ASOCIARSE, CONTACTO OK
 - Mod title - INDEX, NOSOTROS, CURSOS, ASOCIARSE, CONTACTO OK
