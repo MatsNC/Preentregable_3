@@ -309,13 +309,24 @@ form .btn-customized {
     margin-right: 10% !important;
   }
   .wrapper_error {
-    background: url("/images/error-mobile.png") no-repeat center center fixed;
+    background: url("../images/error-mobile.png") no-repeat center center fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-color: #e2fbff;
     background-size: contain;
     overflow-x: hidden;
+  }
+  .div-button-error {
+    display: flex;
+    margin-top: 50vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .button-error {
+    width: auto;
+    height: auto;
+    font-size: 65%;
   }
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -328,13 +339,24 @@ form .btn-customized {
     margin-right: 10% !important;
   }
   .wrapper_error {
-    background: url("../../images/error-mobile.png") no-repeat center center fixed;
+    background: url("../images/error-mobile.png") no-repeat center center fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-color: #e2fbff;
     background-size: contain;
     overflow-x: hidden;
+  }
+  .div-button-error {
+    display: flex;
+    margin-top: 50vh;
+    align-items: center;
+    justify-content: center;
+  }
+  .button-error {
+    width: auto;
+    height: auto;
+    font-size: 65%;
   }
 }
 @media only screen and (min-width: 766px) and (max-width: 768px) {
@@ -342,13 +364,24 @@ form .btn-customized {
     display: none !important;
   }
   .wrapper_error {
-    background: url("../../images/error-tablet.png") no-repeat center center fixed;
+    background: url("../images/error-tablet.png") no-repeat center center fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-color: #e2fbff;
     background-size: contain;
     overflow-x: hidden;
+  }
+  .div-button-error {
+    display: flex;
+    position: fixed;
+    margin-top: 2%;
+    margin-left: 2%;
+  }
+  .button-error {
+    width: auto;
+    height: auto;
+    font-size: 3vh;
   }
 }
 @media only screen and (width: 768px) {
@@ -356,13 +389,19 @@ form .btn-customized {
     display: inline-block !important;
   }
   .wrapper_error {
-    background: url("../../images/error-tablet.png") no-repeat center center fixed;
+    background: url("../images/error-tablet.png") no-repeat center center fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-color: #e2fbff;
     background-size: contain;
     overflow-x: hidden;
+  }
+  .div-button-error {
+    display: flex;
+    position: fixed;
+    margin-top: 60vh;
+    margin-left: 12vh;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 992px) {
@@ -383,13 +422,24 @@ form .btn-customized {
     margin-left: 40%;
   }
   .wrapper_error {
-    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    background: url("../images/error-desktop.png") no-repeat center center fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-color: #e2fbff;
     background-size: contain;
     overflow-x: hidden;
+  }
+  .div-button-error {
+    display: flex;
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 5%;
+  }
+  .button-error {
+    width: auto;
+    height: auto;
+    font-size: 3vh;
   }
 }
 @media only screen and (min-width: 992px) {
@@ -413,32 +463,65 @@ form .btn-customized {
     font-size: medium;
   }
   .wrapper_error {
-    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    background: url("../images/error-desktop.png") no-repeat center center fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-color: #e2fbff;
     background-size: contain;
     overflow-x: hidden;
+  }
+  .div-button-error {
+    display: flex;
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 5%;
+  }
+  .button-error {
+    width: auto;
+    height: auto;
+    font-size: 3vh;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .img-2 {
     margin-top: 1vh !important;
   }
+  .div-button-error {
+    display: flex;
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 5%;
+  }
+  .button-error {
+    width: auto;
+    height: auto;
+    font-size: 3vh;
+  }
 }
-@media only screen and (max-width: 1400px) {
+@media only screen and (min-width: 1200px) {
   .font-curso p {
     font-size: small;
   }
   .wrapper_error {
-    background: url("../../images/error-desktop.png") no-repeat center center fixed;
+    background: url("../images/error-desktop.png") no-repeat center center fixed;
     -webkit-background-size: contain;
     -moz-background-size: contain;
     -o-background-size: contain;
     background-color: #e2fbff;
     background-size: contain;
     overflow-x: hidden;
+  }
+  .div-button-error {
+    display: flex;
+    position: fixed;
+    margin-top: 3%;
+    margin-left: 5%;
+  }
+  .button-error {
+    width: auto;
+    height: auto;
+    font-size: 3vh;
   }
 }
 

@@ -2,7 +2,7 @@ A corregir/agregar:
   - Bootstrap con link desplegable - cambia el tamaño de las imágenes de al lado - CORREGIDO
   - Verificar tamaño de imagenes. Ajustar. LISTO.
   - Cambiar readme.md de acuerdo a lo que dijo la profe al final del ultimo video.
-  - Agregar pagina de error 404 y agregar boton para volver atrás. EN CURSO
+  - Agregar pagina de error 404 y agregar boton para volver atrás. LISTO
   - Subida a hosting. FTP.
 
   -Devolucion de Abril
