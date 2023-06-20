@@ -13,7 +13,8 @@ También se incluyó el logo de su marca:
 
 ### Wireframe (Maquetado)
 
-Se realizó un wireframe preeliminar (que después fue mutando un poco al avanzar el proyecto, de acuerdo a sus necesidades):
+Se realizó un wireframe preeliminar (que después fue mutando un poco al avanzar el proyecto, de acuerdo a sus necesidades). Adjunto dos imagenes del Wireframa (pestaña inicio y cursos):
 
 ![SIAVET INICIO@1 25x](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/c780551d-977f-4dc9-b6ef-6080f993adaf)
+![CURSOS@1 25x](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/6ad478e8-d330-43c3-9da7-066c603dc19f)
 
