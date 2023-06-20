@@ -15,4 +15,5 @@ También se incluyó el logo de su marca:
 
 Se realizó un wireframe preeliminar (que después fue mutando un poco al avanzar el proyecto, de acuerdo a sus necesidades):
 
-![App Screenshot](https://github.com/MatsNC/Proyecto_Final_Correa/issues/1#issue-1766327410)
+![SIAVET INICIO@1 25x](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/c780551d-977f-4dc9-b6ef-6080f993adaf)
+
