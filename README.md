@@ -14,3 +14,5 @@ También se incluyó el logo de su marca:
 ### Wireframe (Maquetado)
 
 Se realizó un wireframe preeliminar (que después fue mutando un poco al avanzar el proyecto, de acuerdo a sus necesidades):
+
+![App Screenshot](https://github.com/MatsNC/Proyecto_Final_Correa/issues/1#issue-1766327410)
