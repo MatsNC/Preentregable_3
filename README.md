@@ -21,6 +21,7 @@ Se realizó un wireframe preeliminar (que después fue mutando un poco al avanza
 ### Resultado Final
 
 En base a este wireframe se trabajó en el diseño y disposión final de sus elementos (a cont., capturas de pestañas inicio y cursos):
+
 ![Inicio screenshot](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/ef294679-d4c3-4adb-828d-d9cfca86c46d)
 ![cursos 1](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/8e3d505a-4017-435d-8fcf-aca5a3fde9a1)
 ![Captura de pantalla 2023-06-20 203053](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/dc963049-a424-4eea-9769-6aee0d3d49ac)
