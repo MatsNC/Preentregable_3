@@ -18,3 +18,10 @@ Se realizó un wireframe preeliminar (que después fue mutando un poco al avanza
 ![SIAVET INICIO@1 25x](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/c780551d-977f-4dc9-b6ef-6080f993adaf)
 ![CURSOS@1 25x](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/6ad478e8-d330-43c3-9da7-066c603dc19f)
 
+### Resultado Final
+
+En base a este wireframe se trabajó en el diseño y disposión final de sus elementos (a cont., capturas de pestañas inicio y cursos):
+![Inicio screenshot](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/ef294679-d4c3-4adb-828d-d9cfca86c46d)
+
+
+
