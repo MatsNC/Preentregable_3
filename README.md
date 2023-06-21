@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Proyecto_final_Correa
 Repositorio de Web Siavet (entrega final)
 =======
@@ -31,4 +30,4 @@ En base a este wireframe se trabajó en el diseño y disposión final de sus ele
 ![Captura de pantalla 2023-06-20 203053](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/dc963049-a424-4eea-9769-6aee0d3d49ac)
 
 
->>>>>>> 0567d7345b241ac70c7fbd7c5bde28e04ee07249
+
