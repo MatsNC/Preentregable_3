@@ -1,6 +1,3 @@
-# Proyecto_final_Correa
-Repositorio de Web Siavet (entrega final)
-=======
 # Mi primera página web - Siavet Argentina 
 Mi nombre es Matías Correa. Descubrí este apasionante mundo de la programación cuando empecé a estudiar ingeniería Electrónica (en realidad se trata de programación en C, orientada a Microcontroladores). Al principio me dió miedo (como creo que le pasa a muchos). Años después, ya recibido, empecé a trabajar programando en C y, de a poco, empecé a animarme cada vez y, si bien costaba, me iba dando cuenta que podía hacer cosas muy interesantes programando. Me empezó a gustar y me dediqué a eso, principalmente. Hace poco, trabajando en proyectos de IoT empecé a trabajar con desarrollo web y diseño de aplicaciones. Como ví que también me gustaba, decidí empezar a estudiar estas materias en profundidad.
 
@@ -29,5 +26,22 @@ En base a este wireframe se trabajó en el diseño y disposión final de sus ele
 ![cursos 1](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/8e3d505a-4017-435d-8fcf-aca5a3fde9a1)
 ![Captura de pantalla 2023-06-20 203053](https://github.com/MatsNC/Proyecto_Final_Correa/assets/64698729/dc963049-a424-4eea-9769-6aee0d3d49ac)
 
+### Responsive
+
+Se construyó el sitio con la idea de que sea "mobile first" y responsive, para todos los dispositivos, utilizando herramientas como Bootstrap y media queries.
+
+## Herramientas usadas
+
+- HTML.
+- CSS/SCSS.
+- Bootstrap.
+- Control de versiones con Git y GitHub.
+
+## Link
+-GitHub Pages: 
+
+## Feedback
+
+Para más consultas, podés escribirme a matscorrea333@gmail.com
 
 
