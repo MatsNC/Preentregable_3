@@ -37,8 +37,9 @@ Se construyó el sitio con la idea de que sea "mobile first" y responsive, para 
 - Bootstrap.
 - Control de versiones con Git y GitHub.
 
-## Link
--GitHub Pages: 
+## Links
+- GitHub Pages: matsnc.github.io/Proyecto_Final_Correa/
+- Hosting: http://siavetargentina.infinityfreeapp.com/
 
 ## Feedback
 
